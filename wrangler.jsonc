@@ -19,13 +19,13 @@
 			"database_name": "d1-example",
 			"database_id": "0d3df2c7-f220-4175-9bb9-dbdf10ea3e66"
 		}
-	],
-	"r2_buckets": [
-    {
-      "binding": "r2_example",
-      "bucket_name": "r2-example"
-    }
-  ]
+	]
+	// "r2_buckets": [
+  //   {
+  //     "binding": "r2_example",
+  //     "bucket_name": "r2-example"
+  //   }
+  // ]
 	/**
 	 * Smart Placement
 	 * https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
