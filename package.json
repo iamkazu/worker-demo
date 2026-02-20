@@ -1,5 +1,6 @@
 {
 	"name": "worker-demo",
+	"description": "workerのデモ",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
