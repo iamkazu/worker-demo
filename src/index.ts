@@ -13,6 +13,6 @@ export default {
 		const result = await env.DB.prepare(
 			"select id, author, body, post_slug FROM comments",
 		).run<Comments>();
-		return new Response(JSON.stringify(result));
+		return new Response(JSON.stringify(result.results));
 	},
 } satisfies ExportedHandler<Env>;
