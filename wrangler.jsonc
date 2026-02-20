@@ -15,7 +15,7 @@
 	],
 	"d1_databases": [
 		{
-			"binding": "d1_example",
+			"binding": "DB",
 			"database_name": "d1-example",
 			"database_id": "0d3df2c7-f220-4175-9bb9-dbdf10ea3e66"
 		}
